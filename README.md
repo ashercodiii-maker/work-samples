@@ -1,4 +1,4 @@
-# Tidy Sheets — Work Samples
+# Tidy Sheets - Work Samples
 
 Freelance work samples: spreadsheets and automation, data cleaning, copywriting, YouTube scripts and English↔Hebrew translation.
 
