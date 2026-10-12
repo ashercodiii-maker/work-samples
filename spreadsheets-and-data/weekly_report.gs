@@ -1,5 +1,5 @@
 /**
- * Weekly Sales Report — Google Sheets + Apps Script
+ * Weekly Sales Report - Google Sheets + Apps Script
  *
  * Every Monday at 8:00 this script:
  *   1. reads the "Orders" sheet (Date | Customer | Product | Units | Unit Price),
@@ -101,7 +101,7 @@ function appendSummary_(ss, weekStart, thisWeek, lastWeek) {
 
 function buildHtml_(from, to, w, prev, url) {
   const tz = Session.getScriptTimeZone();
-  const range = `${Utilities.formatDate(from, tz, 'MMM d')} – ${Utilities.formatDate(addDays_(to, -1), tz, 'MMM d, yyyy')}`;
+  const range = `${Utilities.formatDate(from, tz, 'MMM d')} - ${Utilities.formatDate(addDays_(to, -1), tz, 'MMM d, yyyy')}`;
   const card = (label, value, delta) => `
     <td style="padding:12px 16px;background:#f4f6fa;border-radius:8px">
       <div style="font-size:12px;color:#5b6475">${label}</div>
