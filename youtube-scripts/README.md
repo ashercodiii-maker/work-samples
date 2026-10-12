@@ -6,7 +6,7 @@ Every script follows the same retention structure:
 1. **Cold open hook** (first 5 seconds): a claim or question the viewer needs resolved
 2. **Promise**: what they'll know by the end
 3. **Open loops**: questions planted early and paid off later
-4. **Pattern interrupts** every 30–60 seconds (new fact, reversal, visual cue)
+4. **Pattern interrupts** every 30-60 seconds (new fact, reversal, visual cue)
 5. **Payoff + CTA** that follows naturally from the content
 
 | # | Niche | Format | Script |

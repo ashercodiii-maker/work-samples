@@ -1,6 +1,6 @@
-# The Mount Chiliad Mystery (GTA V) — YouTube Short, ~50 sec
+# The Mount Chiliad Mystery (GTA V) - YouTube Short, ~50 sec
 
-**[HOOK — 0:00]**
+**[HOOK - 0:00]**
 There's a painting in GTA 5 that Rockstar has never fully explained.
 
 **[0:04]**
@@ -18,7 +18,7 @@ So the UFO was real. But the jetpack? Nobody ever found it in single player. And
 **[0:37]**
 Rockstar has been planting mountain mysteries since San Andreas, with the Chiliad ghost stories and Bigfoot rumors.
 
-**[0:44 — PAYOFF + CTA]**
+**[0:44 - PAYOFF + CTA]**
 So when GTA 6 drops, check every mountain. Which part of the mural do you think we're still missing? Comment below.
 
 ---

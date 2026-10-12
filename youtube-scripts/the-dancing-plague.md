@@ -1,6 +1,6 @@
-# The Dancing Plague of 1518 — YouTube Short, ~55 sec
+# The Dancing Plague of 1518 - YouTube Short, ~55 sec
 
-**[HOOK — 0:00]**
+**[HOOK - 0:00]**
 In 1518, a woman in Strasbourg started dancing in the street, and she couldn't stop.
 
 **[0:05]**
@@ -15,10 +15,10 @@ It didn't work. Accounts from the time say some dancers collapsed from exhaustio
 **[0:33]**
 So what caused it? The two leading theories: ergot poisoning from a fungus on rye, which causes spasms and hallucinations… or mass psychogenic illness, triggered by famine, disease, and fear in a city under enormous stress.
 
-**[0:45 — PAYOFF]**
+**[0:45 - PAYOFF]**
 Most historians today lean toward the second. Which means the scariest part isn't a fungus. It's what fear can do to a crowd.
 
-**[0:51 — CTA]**
+**[0:51 - CTA]**
 Which theory do you believe? Tell me below.
 
 ---
