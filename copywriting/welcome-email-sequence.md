@@ -1,10 +1,10 @@
-# Welcome Email Sequence — "Hearth & Grain" (fictional home-baking brand)
+# Welcome Email Sequence - "Hearth & Grain" (fictional home-baking brand)
 
 *Goal: turn a new subscriber (signed up for a free recipe PDF) into a first-time buyer within 7 days.*
 
 ---
 
-## Email 1 — Sent immediately
+## Email 1 - Sent immediately
 **Subject:** Your sourdough guide is here 🍞
 **Preview:** Plus the one mistake almost everyone makes on day one
 
@@ -21,7 +21,7 @@ The Hearth & Grain team
 
 ---
 
-## Email 2 — Day 3
+## Email 2 - Day 3
 **Subject:** Why your loaf came out flat (it's not you)
 **Preview:** 3 fixes, in order of how often they work
 
@@ -37,7 +37,7 @@ Reply and tell me how it went. We read every reply.
 
 ---
 
-## Email 3 — Day 6
+## Email 3 - Day 6
 **Subject:** The tool that made our loaves rise (10% off inside)
 **Preview:** For the next 48 hours
 

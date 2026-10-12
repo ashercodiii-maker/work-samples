@@ -18,7 +18,7 @@ At 480 grams, the TrailLite disappears on your back until you need it. Then the 
 ## 2. Morning Ritual Pour-Over Set
 **Café-quality coffee, three minutes, zero machines.**
 A heat-resistant glass carafe, a stainless steel filter that never needs paper, and a gooseneck kettle for a slow, even pour. Rinse, brew, enjoy. Everything is dishwasher safe except the kettle.
-- 600 ml carafe (2–3 cups)
+- 600 ml carafe (2-3 cups)
 - Reusable stainless steel filter
 - 1 L gooseneck kettle, stovetop compatible
 - Gift box included
@@ -28,7 +28,7 @@ A heat-resistant glass carafe, a stainless steel filter that never needs paper, 
 ## 3. CalmDesk Cable Organizer (pack of 6)
 **One drawer. No more cable spaghetti.**
 Soft silicone clips hold chargers and cables in place on the edge of your desk, so they're always where your hand expects them. Peel, stick, done. They come off cleanly when you move.
-- 6 clips, 1–3 cable slots each
+- 6 clips, 1-3 cable slots each
 - Residue-free adhesive
 - Fits cables up to 7 mm
 - Colors: graphite, sand, sage

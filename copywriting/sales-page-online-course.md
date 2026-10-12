@@ -1,4 +1,4 @@
-# Sales Page — "Spreadsheet Calm" (fictional online course)
+# Sales Page - "Spreadsheet Calm" (fictional online course)
 
 *Audience: small-business owners who run their business from messy spreadsheets.*
 
@@ -21,13 +21,13 @@ It's not that you're bad with numbers. Nobody ever showed you how to set a sprea
 Most spreadsheet pain comes from three fixable habits: mixing raw data with calculations, typing the same thing in different ways, and rebuilding reports instead of letting them update. Fix those three, and everything else gets easier.
 
 ## What you'll learn
-- **Week 1 — One source of truth:** structure any business file so data, calculations and reports never mix.
-- **Week 2 — Formulas that don't break:** lookups, totals by month and category, and how to read an error instead of fearing it.
-- **Week 3 — Reports that build themselves:** a monthly dashboard you set up once.
-- **Week 4 — Automation:** scheduled email summaries and automatic imports, explained step by step.
+- **Week 1 - One source of truth:** structure any business file so data, calculations and reports never mix.
+- **Week 2 - Formulas that don't break:** lookups, totals by month and category, and how to read an error instead of fearing it.
+- **Week 3 - Reports that build themselves:** a monthly dashboard you set up once.
+- **Week 4 - Automation:** scheduled email summaries and automatic imports, explained step by step.
 
 ## Proof
-> *[Testimonial slot: name, business type, one specific result. Example format: "I used to spend every first Sunday of the month on reports. Now it's ten minutes." — Owner, cleaning business]*
+> *[Testimonial slot: name, business type, one specific result. Example format: "I used to spend every first Sunday of the month on reports. Now it's ten minutes." - Owner, cleaning business]*
 
 *(Add real testimonials only. Placeholder shown for structure.)*
 
@@ -37,7 +37,7 @@ Most spreadsheet pain comes from three fixable habits: mixing raw data with calc
 - Weekly live Q&A recordings
 - Lifetime access and updates
 
-**Price: $149** — or 3 payments of $55
+**Price: $149** - or 3 payments of $55
 
 **[Join Spreadsheet Calm →]**
 
